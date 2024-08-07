@@ -1,7 +1,6 @@
 ### Hi there 👋, my name is Bartosz
 I am a fourth year student of information technology at Łódź university of technology
 
-Skills: .NET / SQL / HTML/ CSS / 3D art
 
 - 🌱 I’m currently learning **TypeScript, Reactm asp.net and postgreSQL**
 
