@@ -5,7 +5,7 @@ I am a fourth year student of information technology at Łódź university of te
 - 🌱 I’m currently learning **TypeScript, ASP.NET and postgreSQL**
 
 - 🔭 I’m currently working on :
-  https://github.com/Kusmierek/PlayFieldBuddyAPI  /    https://github.com/BartoszJakis/LibraryApp
+  https://github.com/Kusmierek/PlayFieldBuddyAPI  /   https://github.com/BartoszJakis/RestaurantAPI
 
 <p align="left">
 </p>
