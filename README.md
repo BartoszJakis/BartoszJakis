@@ -1,11 +1,11 @@
 ### Hi there 👋, my name is Bartosz
-I am a fourth year student of information technology at Łódź university of technology
+I am a graduate of information technology at Łódź university of technology
 
 
-- 🌱 I’m currently learning **TypeScript, ASP.NET and postgreSQL**
+- 💾 Specialized in **GCP, DevOps, .NET**
 
 - 🔭 I’m currently working on :
-  https://github.com/Kusmierek/PlayFieldBuddyAPI  /   https://github.com/BartoszJakis/RestaurantAPI
+  https://github.com/Kusmierek/PlayFieldBuddyAPI 
 
 <p align="left">
 </p>
